@@ -1,6 +1,6 @@
 ## Dallas Hill Web Portfolio
 
-Published Portfolio link - 
+Published Portfolio link - https://helluvadallas.github.io/Portfolio/
 
 GitHub repo link - https://github.com/HelluvaDallas/Portfolio
 
@@ -17,18 +17,18 @@ The target audience is currently the educators at Coder Academy for the purpose 
 Below you will find the sitemap and screenshots of the mobile version of my website
 
 *Sitemap*
-![sitemap](flowchart.png)
+![sitemap](./flowchart.png)
 
 *Home Page Mobile Version*
-![home page](0home.png)
+![home page](./0home.png)
 
 *About Page Mobile Version*
-![About page](0about.png)
+![About page](./0about.png)
 
 *Resume Page Mobile Version*
-![Resume page](0resume.png)
+![Resume page](./0resume.png)
 
 *Contact Page Mobile Version*
-![Contact page](0contact.png)
+![Contact page](./0contact.png)
 
 My portfolio was written in HTML5 and CSS3, using Microsoft Visual Studio Code. The depolyment platform for my website was GitHub.
