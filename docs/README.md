@@ -1,6 +1,6 @@
 ## Dallas Hill Web Portfolio
 
-Published Portfolio link - https://helluvadallas.github.io/Portfolio/
+Published Portfolio link - https://helluvadallas.github.io/Portfolio/src
 
 GitHub repo link - https://github.com/HelluvaDallas/Portfolio
 
